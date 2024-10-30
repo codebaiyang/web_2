@@ -4,7 +4,7 @@ body {
     color: #333;
     margin: 0;
     line-height: 1.6;
-    background-image: url("res/R-C.jpg");
+    background-image: url("R-C.jpg");
     /* background-size: cover; */
     height: 150vh;
     backdrop-filter: blur(100px);
